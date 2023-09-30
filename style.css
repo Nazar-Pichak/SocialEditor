@@ -476,3 +476,30 @@ button {
 
 /* MEDIA QUERIES */
 
+@media (max-width: 1200px) {
+    .panel {
+        display: none;
+    }
+
+    .canvas {
+        width: 67vw;
+    }
+}
+
+@media (max-width: 1000px) {
+    .sidebar {
+        display: none;
+    }
+
+    .info-bar {
+        padding: 0 20px;
+    }
+
+    .artboard {
+        padding: 0 20px;
+    }
+
+    .canvas {
+        width: 100%;
+    }
+}
