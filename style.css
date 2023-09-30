@@ -263,8 +263,8 @@ button {
 }
 
 .panel__img {
-    width: 140px;
-    height: 140px;
+    width: 120px;
+    height: 120px;
     object-fit: cover;
     cursor: pointer;
     border-radius: 7px;
@@ -295,8 +295,8 @@ button {
 }
 
 .panel__btn {
-    width: 140px;
-    height: 140px;
+    width: 120px;
+    height: 120px;
     border-radius: 7px;
     background-color: #333e44; 
     cursor: pointer;
@@ -485,6 +485,7 @@ button {
     .canvas {
         width: 67vw;
     }
+
 }
 
 @media (max-width: 1000px) {
@@ -584,3 +585,4 @@ button {
         height: 400px;
     }
 }
+
