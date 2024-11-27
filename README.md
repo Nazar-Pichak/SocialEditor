@@ -9,7 +9,7 @@ The project was created by following educational course and best practices on **
 The ***SocialEditor*** can be useful as a pretty frontend part of web application.
 To start with this project you can easily clone it and run on your machine or try to build it from scratch by yourself with [ByteGrad](https://www.udemy.com/user/bytegrad/).
 
-You will also need install third party packages from [npm registry](https://www.npmjs.com/) for compiling CSS to autoprefixed CSS with **rem units**.
+You will also need install third party packages from [npm registry](https://www.npmjs.com/) for compiling CSS with **pixel units** to CSS with **rem units**.
 ## Installation
 
 ```
