@@ -10,3 +10,9 @@ The ***SocialEditor*** can be useful as a pretty frontend part of web applicatio
 To start with this project you can easily clone it and run on your machine or try to build it from scratch by yourself with [ByteGrad](https://www.udemy.com/user/bytegrad/)
 
 ## Installation
+
+```
+git clone
+cd
+npm install
+```
